@@ -7,3 +7,6 @@
 
 [support-invite]: https://support.switchblade.xyz
 [support-image]: https://invidget.switchblade.xyz/2FB8wDG?theme=dark
+
+Mano, es ganda gajo ya, orgulho <3
+
