@@ -4,8 +4,6 @@
 I'm David Paiva, known as "jaxxibae" online, and I'm an IT student from Portugal 🇵🇹!<br>
 I have past experience with Node.js and Java, and I'm currently learning C#, React and Python.</p>
 
-<br>
-
 ### Social Media
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jaxxibae)
