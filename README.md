@@ -1,4 +1,4 @@
-## Welcome to my profile!
+# Welcome to my profile!
 
 <p>Hello! 🙋‍♂️<br>
 I'm David Paiva, known as "jaxxibae" online, and I'm an IT student from Portugal 🇵🇹!<br>
@@ -6,7 +6,7 @@ I have past experience with Node.js and Java, and I'm currently learning C#, Rea
 
 <br>
 
-#### Social Media
+### Social Media
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jaxxibae)
 
@@ -17,7 +17,7 @@ I have past experience with Node.js and Java, and I'm currently learning C#, Rea
 <br>
 <br>
 
-#### Statistics
+### Statistics
 
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=jaxxibae&theme=tokyonight&show_icons=true&bg_color=2f3136&title_color=ffffff&text_color=b9bbbe)](https://github.com/anuraghazra/github-readme-stats)
 
