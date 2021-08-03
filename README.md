@@ -10,7 +10,7 @@ I have past experience with Node.js and Java, and I'm currently learning C#, Rea
 
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%235851db.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/jaxxiecodes)
 
-[<img align="left" alt="twitch" src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />](https://twitch.tv/pillgp)
+[<img align="left" alt="twitch" src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />](https://twitch.tv/jaxxibae)
 
 <br>
 <br>
