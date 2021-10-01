@@ -1,8 +1,8 @@
 # Welcome to my profile!
 
 <p>Hello! 🙋‍♂️<br>
-I'm David Paiva, known as "jaxxibae" online, and I'm an IT student from Portugal 🇵🇹!<br>
-I have past experience with Node.js and Java, and I'm currently learning C#, React and Python.</p>
+I'm David Paiva, known as jaxxibae online, and I'm an IT student from Portugal 🇵🇹!<br>
+I have past experience with Node.js and Java, and I'm currently learning C#, React, Python and Flutter.</p>
 
 ### Social Media
 
