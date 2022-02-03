@@ -8,6 +8,8 @@ I have past experience with Node.js and Java, and I'm currently learning C#, Rea
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jaxxibae)
 
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/david-paiva-87072a228/)
+
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%235851db.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/jaxxibae.dev)
 
 [<img align="left" alt="twitch" src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />](https://twitch.tv/jaxxibae)
