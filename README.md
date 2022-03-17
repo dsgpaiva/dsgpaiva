@@ -2,7 +2,7 @@
 
 <p>Hello! 🙋‍♂️<br>
 I'm David Paiva, known as jaxxibae online, and I'm an IT student from Portugal 🇵🇹!<br>
-I have past experience with Node.js and Java, and I'm currently learning C#, React, Python and Flutter.</p>
+I have past experience with Node.js, C# and Java, and I'm currently learning React Native and Python.</p>
 
 ### Social Media
 
