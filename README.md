@@ -2,7 +2,7 @@
 
 <p>Hello! 🙋‍♂️<br>
 I'm David Paiva, known as jaxxibae online, and I'm an IT student from Portugal 🇵🇹!<br>
-I have past experience with Node.js, C#, React Native and Java, and I'm currently learning ASP.NET and Angular.
+I have past experience with Node.js, C#, React Native and Java, and I'm currently learning ASP.NET and Angular.<br>
 Currently studying Software Development @ ISTEC and working as a Junior Software Developer @ BRAVANTIC.</p>
 
 ### Social Media
