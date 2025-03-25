@@ -2,15 +2,15 @@
 
 I'm David, known as jaxxibae online, and I'm an IT student from Portugal 🇵🇹!<br>
 I have past experience with Node.js, C#, React Native, ASP.NET and Angular.<br>
-Currently studying Software Development @ ISTEC and working as a Junior Software Developer @ BRAVANTIC.</p>
+Currently studying CompSci @ ISTEC and working as an IT Consultant @ HN Services Portugal.</p>
 
 ## Social Media
 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jaxxibae)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dsgpaiva)
 
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/david-paiva-87072a228/)
 
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%235851db.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/jaxxibae)
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%235851db.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/dsgpaiva)
 
 <br>
 <br>
